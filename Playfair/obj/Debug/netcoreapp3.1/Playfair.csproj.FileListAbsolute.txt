@@ -1,0 +1,13 @@
+C:\Users\Sara\source\repos\Playfair\Playfair\bin\Debug\netcoreapp3.1\Playfair.exe
+C:\Users\Sara\source\repos\Playfair\Playfair\bin\Debug\netcoreapp3.1\Playfair.deps.json
+C:\Users\Sara\source\repos\Playfair\Playfair\bin\Debug\netcoreapp3.1\Playfair.runtimeconfig.json
+C:\Users\Sara\source\repos\Playfair\Playfair\bin\Debug\netcoreapp3.1\Playfair.runtimeconfig.dev.json
+C:\Users\Sara\source\repos\Playfair\Playfair\bin\Debug\netcoreapp3.1\Playfair.dll
+C:\Users\Sara\source\repos\Playfair\Playfair\bin\Debug\netcoreapp3.1\Playfair.pdb
+C:\Users\Sara\source\repos\Playfair\Playfair\obj\Debug\netcoreapp3.1\Playfair.csprojAssemblyReference.cache
+C:\Users\Sara\source\repos\Playfair\Playfair\obj\Debug\netcoreapp3.1\Playfair.csproj.CoreCompileInputs.cache
+C:\Users\Sara\source\repos\Playfair\Playfair\obj\Debug\netcoreapp3.1\Playfair.AssemblyInfoInputs.cache
+C:\Users\Sara\source\repos\Playfair\Playfair\obj\Debug\netcoreapp3.1\Playfair.AssemblyInfo.cs
+C:\Users\Sara\source\repos\Playfair\Playfair\obj\Debug\netcoreapp3.1\Playfair.dll
+C:\Users\Sara\source\repos\Playfair\Playfair\obj\Debug\netcoreapp3.1\Playfair.pdb
+C:\Users\Sara\source\repos\Playfair\Playfair\obj\Debug\netcoreapp3.1\Playfair.genruntimeconfig.cache
